@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding= "UTF-8"?>
+
+<collection>
+  <doc href= "http://vos.lavoz.com.ar/rss.xml"/>
+ <doc href= "http://www.perfil.com/rss/espectaculos.xml"/>
+ <doc href= "http://www.minutouno.com/rss/espectaculos.xml"/>
+</collection>
